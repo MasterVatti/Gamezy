@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6b587efb7b994bf4a82f95faae0a960, type: 3}
+  m_Name: Movies
+  m_EditorClassIdentifier: 
+  _data:
+  - Image: {fileID: 21300000, guid: 287d779c47be247a4832436c95af9931, type: 3}
+    Title: The Morning Show
+    Text: In a gripping exploration of the high-stakes world of morning television,
+      The Morning Show delves into the lives of its complex characters as they navigate
+      the cutthroat industry. Anchored by the powerhouse performances of Jennifer
+      Aniston (Alex Levy) and Reese Witherspoon (Bradley Jackson), this drama series
+      has garnered critical acclaim
+  - Image: {fileID: 21300000, guid: c92c6f52edc3d40a78a661a5fdc1c762, type: 3}
+    Title: The Peripheral
+    Text: 'A woman discovers a secret connection to an alternate reality as well
+      as a dark future of her own. '
+  - Image: {fileID: 21300000, guid: 3b827eea361b245349c09c47fcdfe140, type: 3}
+    Title: Beef
+    Text: 'Two strangers get into a road rage incident that brings chaos into their
+      lives. '
+  - Image: {fileID: 21300000, guid: d7c71775ba1cc41748d5f69d269cde80, type: 3}
+    Title: 'Justified: City Primeval'
+    Text: 'Raylan Givens is sent to Detroit, where he collides with a sociopath and
+      a formidable attorney. '
+  - Image: {fileID: 21300000, guid: fa84b5041c19c4bca873be1e9905c908, type: 3}
+    Title: Ratched
+    Text: In a chilling exploration of mental health and the human psyche, Ratched
+      delves into the origin story of Nurse Mildred Ratched (Sarah Paulson), a character
+      inspired by Ken Kesey's novel One Flew Over the Cuckoo's Nest. The series,
+      a Netflix original, has garnered critical acclaim for its gripping narrative,
+      stunning visuals, and stellar performances.
+  - Image: {fileID: 21300000, guid: fa3c6ed3cdc62416e9e7510549ad2c96, type: 3}
+    Title: Prodigal Son
+    Text: Prodigal Son is a psychological thriller that delves into the twisted relationship
+      between a criminal psychologist, Malcolm Bright (Tom Payne), and his notorious
+      serial killer father, Dr. Martin Whitly (Michael Sheen). With a compelling
+      storyline, this gripping series explores the complexities of family dynamics
+      while maintaining an air of suspense throughout.
+  - Image: {fileID: 21300000, guid: 5c294c5277d32470e94ee2100453f4d2, type: 3}
+    Title: Black Bird
+    Text: A convict is offered a deal in exchange for coaxing a confession out of
+      a suspected serial killer.
+  - Image: {fileID: 21300000, guid: 257132712501c454e9d94caca96640de, type: 3}
+    Title: The Night Agent
+    Text: 'An FBI agent is plunged him into a deadly conspiracy involving a mole
+      at the White House. '
+  - Image: {fileID: 21300000, guid: edd6787435bbc4e70aa9d0a4e6f11ddf, type: 3}
+    Title: Lupin
+    Text: In a cleverly crafted crime thriller, Lupin explores the life of Assane
+      Diop (Omar Sy), a gentleman thief inspired by the legendary French character
+      Arsene Lupin. The series masterfully intertwines elements of mystery, suspense,
+      and drama, as it delves into themes of family, redemption, and social injustice.
+  - Image: {fileID: 21300000, guid: e8f65a29010ca4a5daad851e71996283, type: 3}
+    Title: The Terminal List
+    Text: 'After James Reece''s platoon is ambushed, he discovers dark forces working
+      against him. '
+  - Image: {fileID: 21300000, guid: 9e9bc44bb66b94544bc98048a93ac718, type: 3}
+    Title: Hacks
+    Text: In the realm of dark comedy, Hacks stands as a testament to the power of
+      wit and resilience. This critically acclaimed series, which has garnered multiple
+      award nominations, delves into the complexities of intergenerational relationships
+      within the entertainment industry.
+  - Image: {fileID: 21300000, guid: 6ab6777da9db6490196acca60a202065, type: 3}
+    Title: One Piece
+    Text: 'Monkey D. Luffy and his pirate crew explore endless oceans and exotic
+      islands in search of treasure. '
+  - Image: {fileID: 21300000, guid: 43f6812594a014e539f87d00ab29be74, type: 3}
+    Title: Hijack
+    Text: A corporate negotiator tries to use his skills to save everyone on board
+      a hijacked flight.
+  - Image: {fileID: 21300000, guid: 12cf312d9e41941c5863a70e2f6adb7b, type: 3}
+    Title: The Patient
+    Text: A widowed psychotherapist is held prisoner by a serial killer with an unusual
+      request.
+  - Image: {fileID: 21300000, guid: d233df9526c5b4342a466e1702d3c1d6, type: 3}
+    Title: Inside Man
+    Text: A prisoner on death row and a woman trapped in a cellar under an English
+      vicarage cross paths.
+  - Image: {fileID: 21300000, guid: 715b4794adede4e7494b567d55e53153, type: 3}
+    Title: Archive 81
+    Text: Archive 81 explores the enigmatic world of supernatural occurrences, entwined
+      with the human experience. As a Netflix original series, the show delves into
+      the unnerving and mysterious events that unfold when an archivist, Dan Turner
+      (Mamoudou Athie), works to restore damaged videotapes from a fire-ravaged building.
+  - Image: {fileID: 21300000, guid: c8be7d49a23764d23857ca3c3c7caa8b, type: 3}
+    Title: Dahmer - Monster
+    Text: The story of one of the most notorious serial killers in the United States.
+  - Image: {fileID: 21300000, guid: 728868d7e1d6345f1b90a4f204c5eafc, type: 3}
+    Title: Percy Jackson & the Olympians
+    Text: Twelve-year-old Percy Jackson is coming to terms with his newfound divine
+      powers.
+  - Image: {fileID: 21300000, guid: 0f196ef02934344dcb618478cec60a81, type: 3}
+    Title: 1899
+    Text: Passengers get caught up in a mysterious riddle after finding a vessel
+      adrift on the open sea.
+  - Image: {fileID: 21300000, guid: 8f174e034ee0547ef89be4528170c58b, type: 3}
+    Title: The Lincoln Lawyer
+    Text: A lawyer runs his practice out of the back of his Lincoln Town Car.
+  - Image: {fileID: 21300000, guid: 91f763c82f9514906adbba5ec7144f8c, type: 3}
+    Title: 'Queen Charlotte: A Bridgerton Story'
+    Text: The young queen's marriage to King George ushers in an epic love story
+      and transforms high society.
+  - Image: {fileID: 21300000, guid: 8f575f7952f4b4d08ad039cb1716221d, type: 3}
+    Title: Love & Death
+    Text: Two churchgoing couples enjoy small town family life in Texas - until somebody
+      picks up an axe.
